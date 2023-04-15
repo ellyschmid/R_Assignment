@@ -39,7 +39,7 @@ time-series (2000-2022) images using a five-year interval.
 Figure: Salinity Indicies used in the Classification </br>
 From: Feizizadeh, B.; Omarzadeh, D.; Mohammadzadeh Alajujeh, K.; Blaschke, T.; Makki, M. Impacts of the Urmia Lake Drought on Soil Salinity and Degradation Risk: An Integrated Geoinformatics Analysis and Monitoring Approach. Remote Sens. 2022, 14, 3407.
 
-### R-Project
+### R-Project Salinization Classification
 The Project contains 3 Scripts: The Functions-Script contains all functions
 used for deriving the Salinity Indices from Satellite Images.
 The RF_Preparation_Model-Script contains the Preparation steps for the classification by loading the data, applying the Salinity Indices to the Landsat Images, the training of the Random Forest Model and the prediction of the Images. The Visualization-Script contains the
