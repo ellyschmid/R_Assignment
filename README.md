@@ -34,6 +34,8 @@ time-series (2000-2022) images using a five-year interval.
   + Random forest classification to assess the temporal and spatial variability of salt         affected land classes
   + Selection of training data based on the year 2015, using a k-means classification of 5     classes and results of the salinity indices  
 
+![alt text](https://github.com/ellyschmid/R_Assignment/blob/main/Indicies.png?raw=true)
+
 Figure: Salinity Indicies used in the Classification </br>
 From: Feizizadeh, B.; Omarzadeh, D.; Mohammadzadeh Alajujeh, K.; Blaschke, T.; Makki, M. Impacts of the Urmia Lake Drought on Soil Salinity and Degradation Risk: An Integrated Geoinformatics Analysis and Monitoring Approach. Remote Sens. 2022, 14, 3407.
 
