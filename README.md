@@ -45,4 +45,4 @@ used for deriving the Salinity Indices from Satellite Images.
 The RF_Preparation_Model-Script contains the Preparation steps for the classification by loading the data, applying the Salinity Indices to the Landsat Images, the training of the Random Forest Model and the prediction of the Images. The Visualization-Script contains the
 plot for a chord-diagram displaying the class transitions of the salinity classes 
 between the first and the last predicted image, a plot displaying the classified 
-images and a plot displaying the change in classes between the first and last image.  
+images and a plot displaying the change in classes between the first and last image. (view results above) 
